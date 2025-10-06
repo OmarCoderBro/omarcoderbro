@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### My name is Omar, an aspiring software engineer attending UIUC! Check out some of my projects!
+
+
 <!--
 **OmarCoderBro/omarcoderbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
